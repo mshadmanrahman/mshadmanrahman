@@ -8,13 +8,12 @@ Based in Uppsala, Sweden.
 
 | Repo | What it does |
 |------|-------------|
-| [**pm-pilot**](https://github.com/mshadmanrahman/pm-pilot) | Claude Code configured for PMs. 25 skills: meeting prep, PRDs, stakeholder intel |
+| [**pm-pilot**](https://github.com/mshadmanrahman/pm-pilot) | Product management skills for Claude Code and Cowork. 8 plugins, 35 skills, one-line install. Discovery that verifies every quote against the transcript |
+| [**claudecode-guide**](https://github.com/mshadmanrahman/claudecode-guide) | Zero-jargon guide to Claude Code, from first install to daily operating system |
+| [**claude-for-designers**](https://github.com/mshadmanrahman/claude-for-designers) | Skills, principles, and projects for designers who use Claude as a collaborator |
+| [**ceremonies**](https://github.com/mshadmanrahman/ceremonies) | Agile retros, estimation, and team analytics. Next.js app, open source |
 | [**root-kg**](https://github.com/mshadmanrahman/root-kg) | Personal knowledge graph with semantic search across notes, meetings, emails |
-| [**morning-digest**](https://github.com/mshadmanrahman/morning-digest) | Morning briefing in 30 seconds. Calendar, email, Slack digest |
 | [**riff**](https://github.com/mshadmanrahman/riff) | Chrome extension for AI-powered LinkedIn engagement |
-| [**discovery-md**](https://github.com/mshadmanrahman/discovery-md) | AI product discovery for PMs without a UX researcher |
-| [**ceremonies**](https://github.com/mshadmanrahman/ceremonies) | Agile retros, estimation, team analytics |
-| [**claudecode-guide**](https://github.com/mshadmanrahman/claudecode-guide) | Zero-jargon guide to Claude Code |
 
 ### Live sites
 
