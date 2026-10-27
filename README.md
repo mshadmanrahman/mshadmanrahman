@@ -1,29 +1,28 @@
 # Hey, I'm Shadman
 
-Product leader turned builder. 14+ years designing and shipping software, now building AI-powered tools for product managers.
+I'm a product leader with a designer's eye. I build tools, test AI workflows, and teach PMs and designers how to use them without giving up their judgment.
 
-Based in Uppsala, Sweden.
+Based in Uppsala, Sweden. Product and UX first, code in service of the problem.
 
-## What I'm building
+## Start here
 
-| Repo | What it does |
-|------|-------------|
-| [**pm-pilot**](https://github.com/mshadmanrahman/pm-pilot) | Product management skills for Claude Code and Cowork. 8 plugins, 35 skills, one-line install. Discovery that verifies every quote against the transcript |
-| [**claudecode-guide**](https://github.com/mshadmanrahman/claudecode-guide) | Zero-jargon guide to Claude Code, from first install to daily operating system |
-| [**claude-for-designers**](https://github.com/mshadmanrahman/claude-for-designers) | Skills, principles, and projects for designers who use Claude as a collaborator |
-| [**ceremonies**](https://github.com/mshadmanrahman/ceremonies) | Agile retros, estimation, and team analytics. Next.js app, open source |
-| [**root-kg**](https://github.com/mshadmanrahman/root-kg) | Personal knowledge graph with semantic search across notes, meetings, emails |
-| [**riff**](https://github.com/mshadmanrahman/riff) | Chrome extension for AI-powered LinkedIn engagement |
+- **Put AI to work in product management:** [PM Pilot](https://github.com/mshadmanrahman/pm-pilot) brings evidence-led decision briefs, discovery workflows, and everyday PM tasks into Claude Code.
+- **Learn by doing:** [Claude Code Guide](https://claudecodeguide.dev/) is my practical setup and guide for people who want to make Claude useful in their own work.
+- **Run a better team ritual:** [Ceremonies](https://ceremonies.dev/) brings retros, estimation, and follow-through on action items into one place.
 
-### Live sites
+## More of my work
 
-- [ceremonies.dev](https://ceremonies.dev) - Team ceremonies, done right
-- [claudecodeguide.dev](https://claudecodeguide.dev) - Learn Claude Code without the jargon
+- [Claude for Designers](https://github.com/mshadmanrahman/claude-for-designers): the working repository for my Ostad course, with design principles, skills, and project templates.
+- [ROOT](https://github.com/mshadmanrahman/root-kg): a knowledge graph for asking questions across notes, meetings, and emails, with cited answers.
 
-## Stack
+## How I work
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-191919?style=flat&logo=anthropic&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+Start with a real problem. Make something small enough to try. Check the evidence, including the parts that disagree. Keep the person responsible for the decision.
+
+These repositories include tools, teaching material, and experiments. Read each project's README for setup, scope, and limitations.
+
+## Read, learn, or connect
+
+- [Product Field Notes](https://shadmanrahman.substack.com/): lessons from product work, AI experiments, and the decisions behind them.
+- [LinkedIn](https://www.linkedin.com/in/shadmanrahman/): shorter notes and conversations.
+- [Mentoring on ADPList](https://adplist.org/mentors/shadman-rahman): product career conversations and interview practice.
